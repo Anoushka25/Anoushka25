@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Anoushka Gupta! 👋
 
-<!--
-**Anoushka25/Anoushka25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student at Guru Gobind Singh Indraprastha University passionate about technology and innovation.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on projects in Machine Learning, Data Science, and exploring the fascinating world of Gen AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning more about Machine Learning algorithms and techniques, as well as diving deeper into Gen AI.
+
+💬 Ask me about Python, Java, HTML, Machine Learning, or anything tech-related!
+
+📫 How to reach me: Feel free to connect with me on [LinkedIn]www.linkedin.com/in/anoushka25gupta.
+
+⚡ Fun fact: I love to have a drive in my free time! 🍳
+
+<!-- Feel free to reach out for collaboration or say hi! -->
