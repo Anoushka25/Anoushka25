@@ -2,7 +2,7 @@
 
 I'm a Computer Science Engineering student at Guru Gobind Singh Indraprastha University passionate about technology and innovation.
 
-🔭 I’m currently working on projects in Machine Learning, Data Science, and exploring the fascinating world of Gen AI.
+🔭 I have worked on projects based on Machine Learning specifically Computer Vision.
 
 🌱 I’m currently learning more about Machine Learning algorithms and techniques, as well as diving deeper into Gen AI.
 
