@@ -2,11 +2,11 @@
 
 I'm a Computer Science Engineering student at Guru Gobind Singh Indraprastha University passionate about technology and innovation.
 
-🔭 I have worked on projects based on Machine Learning specifically Computer Vision.
+🔭 I have worked on projects based on Machine Learning specifically Computer Vision and Full Stack Web Development.
 
 🌱 I’m currently learning more about Machine Learning algorithms and techniques, as well as diving deeper into Gen AI.
 
-💬 Ask me about Python, Java, HTML, Machine Learning, or anything tech-related!
+💬 Ask me about Python, Java, HTML, Machine Learning, Web Development or anything tech-related!
 
 📫 How to reach me: Feel free to connect with me on [LinkedIn]www.linkedin.com/in/anoushka25gupta.
 
